@@ -1,5 +1,4 @@
 # Componentizando-Apica-o
-# GitExplorer
 Clone o repositório<br>
 Acesse Componentizando-Apica-o<br>
 yarn para baixar as dependências <br>
